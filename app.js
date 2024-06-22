@@ -76,3 +76,5 @@ function appendNumber9(){
     document.getElementById("txtarea").value +=9;
 
 }
+
+let sample=()=>console.log("Hello");
